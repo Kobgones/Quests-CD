@@ -32,7 +32,7 @@ function App() {
 			<Header>
 				<Container>
 					<h1>Wilders Book with CD</h1>
-					<h2>MARION lolo</h2>
+					<h2>MARION lala</h2>
 				</Container>
 			</Header>
 			<Container>
